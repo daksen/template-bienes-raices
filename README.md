@@ -1,2 +1,1 @@
-# bienes_raices
-Template
+# Template bienes raices
